@@ -1,0 +1,4 @@
+gopath/bin/*
+gopath/pkg/*
+gopath/src/*
+!gopath/src/lesson*
