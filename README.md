@@ -13,9 +13,7 @@ carried out in 2 hours.
 ## Welcome
 
 * Why Go?
-	* Software should simple
-	* Software can be simple
-
+* About us
 
 ## Lesson 1: Getting Started
 
