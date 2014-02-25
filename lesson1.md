@@ -1,8 +1,8 @@
 # Introduction to Go - Lesson 1: Getting Started
 
-### Install
+## Installing Go
 
-#### Instructions for Mac
+### Instructions for Mac
 
 *Using Homebrew (Preferred Method):*
 
@@ -14,18 +14,18 @@ brew install go
 
 [instructions from golang.org](http://golang.org/doc/install#download)
 
-#### Instructions for Windows
+### Instructions for Windows
 
 [instructions from golang.org](http://golang.org/doc/install#download)
 
-#### Instructions for Linux
+### Instructions for Linux
 
 ```bash
 sudo apt-get update
 sudo apt-get install golang
 ```
 
-### Environment - GOPATH
+## Environment - GOPATH
 
 The GOPATH environment variable specifies the location of your workspace. It is likely the only environment variable you'll need to set when developing Go code.
 
@@ -42,7 +42,7 @@ For convenience, add the workspace's bin subdirectory to your PATH:
 export PATH=$PATH:$GOPATH/bin
 ```
 
-### Tools
+## Tools
 
 Difference between the naked call:
 
@@ -55,7 +55,7 @@ And the recursive call
 go fmt ./...
 ```
 
-#### go fmt
+### go fmt
 
 Usage:
 
@@ -80,7 +80,7 @@ Simple usage:
 go fmt
 ```
 
-#### go build
+### go build
 
 For an extensive reference, see the [doc](http://golang.org/cmd/go/#hdr-Compile_packages_and_dependencies)
 
@@ -90,7 +90,7 @@ From the root of your package:
 go build
 ```
 
-#### go test
+### go test
 
 For an extensive reference, see the [doc](http://golang.org/cmd/go/#hdr-Test_packages)
 
@@ -100,7 +100,7 @@ From the root of your package:
 go test
 ```
 
-#### go vet
+### go vet
 
 Usage:
 
@@ -124,7 +124,7 @@ Simple usage:
 go vet
 ```
 
-### Your first program: Hello World!
+## Your first program: Hello World!
 
 Check that Go is installed correctly by building a simple program, as follows.
 
@@ -148,6 +148,7 @@ hello, world
 
 If you see the "hello, world" message then your Go installation is working.
 
-### Your first package: double
+## Your first package: double
 
+Let's get to work!
 
