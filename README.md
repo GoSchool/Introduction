@@ -18,6 +18,7 @@ carried out in 2 hours.
 ## Lesson 1: Getting Started
 
 * Installing Go
+  * Testing your installation: Hello World!
 * Environment
   * GOPATH
 * Tools
@@ -25,7 +26,6 @@ carried out in 2 hours.
   * go build
   * go test
   * go vet
-* Hello World!
 
 
 ## Lesson 2: Language Fundamentals
