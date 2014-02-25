@@ -44,11 +44,24 @@ export PATH=$PATH:$GOPATH/bin
 
 ### Tools
 
+Difference between the naked call:
+
+```bash
+go fmt
+```
+
+And the recursive call
+```bash
+go fmt ./...
+```
+
 #### go fmt
 
 Usage:
 
+```bash
 go fmt [-n] [-x] [packages]
+```
 
 Fmt runs the command 'gofmt -l -w' on the packages named by the import paths.
 It prints the names of the files that are modified.
@@ -61,17 +74,55 @@ The -x flag prints commands as they are executed.
 
 To run gofmt with specific options, run gofmt itself.
 
-Example to format all files in your directory:
+Simple usage:
 
 ```bash
-go fmt ./...
+go fmt
 ```
 
 #### go build
 
+For an extensive reference, see the [doc](http://golang.org/cmd/go/#hdr-Compile_packages_and_dependencies)
+
+From the root of your package:
+
+```bash
+go build
+```
+
 #### go test
 
+For an extensive reference, see the [doc](http://golang.org/cmd/go/#hdr-Test_packages)
+
+From the root of your package:
+
+```bash
+go test
+```
+
 #### go vet
+
+Usage:
+
+```bash
+go vet [-n] [-x] [packages]
+```
+
+Vet runs the Go vet command on the packages named by the import paths.
+
+For more about vet, see 'godoc code.google.com/p/go.tools/cmd/vet'.
+For more about specifying packages, see 'go help packages'.
+
+To run the vet tool with specific options, run 'go tool vet'.
+
+The -n flag prints commands that would be executed.
+The -x flag prints commands as they are executed.
+
+Simple usage:
+
+```bash
+go vet
+```
 
 ### Your first program: Hello World!
 
