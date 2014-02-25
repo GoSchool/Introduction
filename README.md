@@ -12,8 +12,8 @@ carried out in 2 hours.
 
 ## Welcome
 
-* Why Go?
 * About us
+* Why Go?
 
 ## Lesson 1: Getting Started
 
