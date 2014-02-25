@@ -134,7 +134,7 @@ Create a file named hello.go and put the following program in it:
 package main
 
 func main() {
-    print("hello, world\n")
+    println("hello, world")
 }
 ```
 
