@@ -17,14 +17,16 @@ func cat(src io.Reader, dst io.Writer) {
 	failOnError(err)
 }
 
-func determineSource(args []string) io.Reader {
+func determineSource(args []string) (src io.Reader) {
+	src = os.Stdin
+
 	if len(args) > 0 {
 		file, err := os.Open(args[0])
 		failOnError(err)
-		return file
+		src = file
 	}
 
-	return os.Stdin
+	return
 }
 
 func failOnError(err error) {

@@ -1,8 +1,17 @@
+# Introduction to Go - Lesson 3: Command Line Applications
 
-# Basic Unix commands
+In this lesson, we will implement several common unix commands in Go.
 
-# `cat` - copy input to standard output
-# `tac` - copy input to standard output in reverse
+* The commands
+  * cat  - copy input to standard output
+  * tac  - copy input to standard output in reverse
+  * head - ouput the first part of files
+  * tail - ouput the last part of files
 
-# `head` - ouput the first part of files
-# `tail` - ouput the last part of files
+## cat - copy input to standard output
+
+## tac  - copy input to standard output in reverse
+
+## head - ouput the first part of files
+
+## tail - ouput the last part of files

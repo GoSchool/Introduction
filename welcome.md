@@ -1,4 +1,4 @@
-# Introduction to Go: Welcome
+# Introduction to Go - Welcome
 
 ## Why Go?
 
