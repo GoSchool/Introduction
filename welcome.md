@@ -1,15 +1,12 @@
 # Introduction to Go: Welcome
 
-## About us
-
 ## Why Go?
 
 * Beliefs:
   * Software should simple
   * Software can be simple
 
-About The Instructors
---------------
+## About The Instructors
 
 ### Levi Cook
 [linked-in](http://www.linkedin.com/in/levicook)
