@@ -3,14 +3,21 @@
 A fast paced, hands on workshop on Go Programming. It's meant to be
 carried out in 2 hours.
 
+* Workshop Outline
+	* Welcome                             | 15 minutes
+	* Lesson 1: Getting Started           | 15 minutes
+	* Lesson 2: Language Fundamentals     | 30 minutes
+	* Lesson 3: Command Line Applications | 60 minutes
+
+
+## Hello World: Welcome and Introductions
+
 Prequisites...
 Experienced programmers, comfortable with a command line interface.
 
 Beliefs
 	Software should simple
 	Software can be simple
-
-## Hello World: Welcome and Introductions
 
 ## Lesson 1: Getting Started
 * Install
