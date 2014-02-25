@@ -4,20 +4,21 @@
 
 #### Instructions for Mac
 
-* Using Homebrew (Preferred Method):
+*Using Homebrew (Preferred Method):*
 
 ```bash
 brew install go
 ```
 
-* From the distribution (use at your own risk):
+*From the distribution (use at your own risk):*
 
 [instructions from golang.org](http://golang.org/doc/install#download)
 
-* Instructions for Windows
+#### Instructions for Windows
+
 [instructions from golang.org](http://golang.org/doc/install#download)
 
-* Instructions for Linux
+#### Instructions for Linux
 
 ```bash
 sudo apt-get update
