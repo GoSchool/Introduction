@@ -25,6 +25,9 @@ sudo apt-get update
 sudo apt-get install golang
 ```
 
+*Note: This can leave you with an old version of go as they don't update
+the package manager as timely as they should*
+
 ## Environment - GOPATH
 
 The GOPATH environment variable specifies the location of your workspace. It is likely the only environment variable you'll need to set when developing Go code.
