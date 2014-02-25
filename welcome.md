@@ -5,5 +5,5 @@
 ## Why Go?
 
 * Beliefs:
-	* Software should simple
-	* Software can be simple
+  * Software should simple
+  * Software can be simple
