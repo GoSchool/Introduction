@@ -1,10 +1,10 @@
-tmp/*
 
-gopath/bin/*
-gopath/pkg/*
+bin/*
+pkg/*
 
-gopath/src/*
-!gopath/src/lesson*
+src/*
+!src/lesson*
 
-*.swp
+*.gz
 *.swo
+*.swp

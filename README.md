@@ -1,9 +1,14 @@
 # Introduction to Go
 
-A free, fast paced, hands on workshop on Go Programming. It's meant to be carried out in 2 hours.
+A fast paced, hands on workshop on Go Programming. It's meant to be
+carried out in 2 hours.
 
 Prequisites...
 Experienced programmers, comfortable with a command line interface.
+
+Beliefs
+	Software should simple
+	Software can be simple
 
 ## Hello World: Welcome and Introductions
 
