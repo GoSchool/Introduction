@@ -42,16 +42,40 @@ For convenience, add the workspace's bin subdirectory to your PATH:
 export PATH=$PATH:$GOPATH/bin
 ```
 
-* Tools
-  * go fmt
-	* go build
-	* go test
-	* go vet
+### Tools
 
-* Your first program: Hello World!
+#### go fmt
 
-[example](http://play.golang.org/p/aGiaVaMIUFa)
+#### go build
 
-* Your first package: double
+#### go test
+
+#### go vet
+
+### Your first program: Hello World!
+
+Check that Go is installed correctly by building a simple program, as follows.
+
+Create a file named hello.go and put the following program in it:
+
+```go
+package main
+
+func main() {
+    print("hello, world\n")
+}
+```
+
+Then run it with the go tool:
+
+```bash
+go run hello.go
+```
+
+hello, world
+
+If you see the "hello, world" message then your Go installation is working.
+
+### Your first package: double
 
 
