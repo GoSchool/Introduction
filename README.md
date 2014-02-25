@@ -12,8 +12,9 @@ carried out in 2 hours.
 
 ## Welcome
 
-* Software should simple
-* Software can be simple
+* Why Go?
+	* Software should simple
+	* Software can be simple
 
 
 ## Lesson 1: Getting Started
