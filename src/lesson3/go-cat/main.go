@@ -6,27 +6,32 @@ import (
 )
 
 func main() {
-	src := determineInput(os.Args)
+	src := determineSource(os.Args[1:])
 	dst := os.Stdout
 
 	cat(src, dst)
 }
 
-func cat(input io.Reader, output io.Writer) {
-	_, err := io.Copy(output, input)
+func cat(src io.Reader, dst io.Writer) {
+	_, err := io.Copy(dst, src)
+	failOnError(err)
+}
 
-	if err != nil {
-		fail(err)
+func determineSource(args []string) (src io.Reader) {
+	src = os.Stdin
+
+	if len(args) > 0 {
+		file, err := os.Open(args[0])
+		failOnError(err)
+		src = file
 	}
+
+	return
 }
 
-func determineInput() (input io.Reader) {
-
-
-	return os.StdIn
-}
-
-func fail(err error) {
-	println(err)
-	os.Exit(1)
+func failOnError(err error) {
+	if err != nil {
+		println(err.Error())
+		os.Exit(1)
+	}
 }
