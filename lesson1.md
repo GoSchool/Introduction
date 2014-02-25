@@ -1,27 +1,28 @@
 ## Lesson 1: Getting Started
 
-* Install
+### Install
 
-> Instructions for Mac
-> Using Homebrew (Preferred Method):
->
-> ```bash
-> brew install go
-> ```
->
-> From the distribution (use at your own risk):
->
-> [instructions from golang.org](http://golang.org/doc/install#download)
+#### Instructions for Mac
 
-> Instructions for Windows
-> [instructions from golang.org](http://golang.org/doc/install#download)
+* Using Homebrew (Preferred Method):
 
-> Instructions for Linux
->
-> ```bash
-> sudo apt-get update
-> sudo apt-get install golang
-> ```
+```bash
+brew install go
+```
+
+* From the distribution (use at your own risk):
+
+[instructions from golang.org](http://golang.org/doc/install#download)
+
+* Instructions for Windows
+[instructions from golang.org](http://golang.org/doc/install#download)
+
+* Instructions for Linux
+
+```bash
+sudo apt-get update
+sudo apt-get install golang
+```
 
 * Environment
 	* GOPATH
