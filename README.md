@@ -20,15 +20,15 @@ carried out in 2 hours.
 * Install
 
 > Instructions for Mac
-  Using Homebrew (Preferred Method):
-
-  ```bash
-  brew install go
-  ```
-
-  From the distribution (use at your own risk):
-
-  [instructions from golang.org](http://golang.org/doc/install#download)
+> Using Homebrew (Preferred Method):
+>
+> ```bash
+> brew install go
+> ```
+>
+> From the distribution (use at your own risk):
+>
+> [instructions from golang.org](http://golang.org/doc/install#download)
 
 > Instructions for Windows
 
