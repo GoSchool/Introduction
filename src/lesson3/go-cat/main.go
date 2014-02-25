@@ -6,24 +6,24 @@ import (
 )
 
 func main() {
-	src := determineInputs()
+	src := determineInput(os.Args)
 	dst := os.Stdout
 
 	cat(src, dst)
 }
 
-func cat(inputs []io.Reader, output io.Writer) {
-	for _, input := range inputs {
-		if _, err := io.Copy(output, input); err != nil {
-			fail(err)
-		}
+func cat(input io.Reader, output io.Writer) {
+	_, err := io.Copy(output, input)
+
+	if err != nil {
+		fail(err)
 	}
 }
 
-func determineInputs() (inputs []io.Reader) {
-	inputs = append(inputs, os.Stdin)
+func determineInput() (input io.Reader) {
 
-	return
+
+	return os.StdIn
 }
 
 func fail(err error) {

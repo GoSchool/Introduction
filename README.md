@@ -25,8 +25,8 @@ carried out in 2 hours.
 	* go build
 	* go test
 	* go vet
-* First Program
-	* Hello World
+* Your first program: Hello World!
+* Your first package: double
 
 
 ## Lesson 2: Language Fundamentals
