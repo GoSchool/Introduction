@@ -12,9 +12,8 @@ carried out in 2 hours.
 
 ## Welcome
 
-* Software should simple
-* Software can be simple
-
+* Why Go?
+* About us
 
 ## Lesson 1: Getting Started
 
@@ -51,8 +50,8 @@ carried out in 2 hours.
 	* go build
 	* go test
 	* go vet
-* First Program
-	* Hello World - [example](http://play.golang.org/p/aGiaVaMIUFa)
+* Your first program: Hello World! [example](http://play.golang.org/p/aGiaVaMIUFa)
+* Your first package: double
 
 
 ## Lesson 2: Language Fundamentals
