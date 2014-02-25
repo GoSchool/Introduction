@@ -22,9 +22,9 @@ carried out in 2 hours.
 	* GOPATH
 * Tools
   * go fmt
-	* go build
-	* go test
-	* go vet
+  * go build
+  * go test
+  * go vet
 * Your first program: Hello World!
 * Your first package: double
 
@@ -34,22 +34,21 @@ carried out in 2 hours.
 * Constants, Variables, Basic Types and Values
 
 * Conditionals
-	* If/Else
-
-	* Switch
-		* switch value { }
-		* switch { case expression: ... }
+  * If/Else
+  * Switch
+    * switch value { }
+    * switch { case expression: ... }
 
 * Collections
-	* Arrays
-	* Slices
-	* Maps
+  * Arrays
+  * Slices
+  * Maps
 
 * For
-	Traditional loop for i:=0;... {
-	Infinite Loop  for {
-	Conditional Loop for <bool> {
-	Range Loop
+  * Traditional loop for i:=0;... {
+  * Infinite Loop  for {
+  * Conditional Loop for <bool> {
+  * Range Loop
 
 * Functions
 	Double(int) int
@@ -64,7 +63,7 @@ carried out in 2 hours.
 
 
 ## Lession 3: Command Line Applications
-	* `cat`- io.Reader and io.Writer
+  * cat - io.Reader and io.Writer
 
 
 
