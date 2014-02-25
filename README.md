@@ -19,6 +19,7 @@ carried out in 2 hours.
 * Installing Go
 * Environment - GOPATH
 * The `go` command
+* Your first program: Hello World!
 
 
 ## Lesson 2: Language Fundamentals
