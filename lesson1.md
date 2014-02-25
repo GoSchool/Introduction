@@ -40,7 +40,7 @@ For convenience, add the workspace's bin subdirectory to your PATH:
 
 ```bash
 export PATH=$PATH:$GOPATH/bin
-```bash
+```
 
 * Tools
   * go fmt
