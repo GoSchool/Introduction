@@ -6,10 +6,7 @@ import (
 )
 
 func main() {
-	src := os.Stdin
-	dst := os.Stdout
-
-	cat(src, dst)
+	cat(os.Stdin, os.Stdout)
 }
 
 func cat(src io.Reader, dst io.Writer) {
