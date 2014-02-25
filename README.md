@@ -17,14 +17,8 @@ carried out in 2 hours.
 
 ## Lesson 1: Getting Started
 * Installing Go
-  * Testing your installation: Hello World!
-* Environment
-  * GOPATH
-* Tools
-  * go fmt
-  * go build
-  * go test
-  * go vet
+* Environment - GOPATH
+* The `go` command
 
 
 ## Lesson 2: Language Fundamentals
@@ -40,7 +34,7 @@ carried out in 2 hours.
   * Maps
 * For
   * Traditional loop for i:=0;... {
-  * Infinite Loop  for {
+  * Infinite Loop for {
   * Conditional Loop for <bool> {
   * Range Loop
 * Functions

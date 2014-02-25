@@ -30,9 +30,14 @@ the package manager as timely as they should*
 
 ## Environment - GOPATH
 
-The GOPATH environment variable specifies the location of your workspace. It is likely the only environment variable you'll need to set when developing Go code.
+The GOPATH environment variable specifies the location of your
+workspace. It is likely the only environment variable you'll need to set
+when developing Go code.
 
-To get started, create a workspace directory and set GOPATH accordingly. Your workspace can be located wherever you like, but we'll use $HOME/go in this document. Note that this must not be the same path as your Go installation.
+To get started, create a workspace directory and set GOPATH accordingly.
+Your workspace can be located wherever you like, but we'll use $HOME/go
+in this document. Note that this must not be the same path as your Go
+installation.
 
 ```bash
 mkdir $HOME/go
@@ -45,7 +50,30 @@ For convenience, add the workspace's bin subdirectory to your PATH:
 export PATH=$PATH:$GOPATH/bin
 ```
 
-## Tools
+## The `go` command
+
+The `go` command is a tool for managing Go source code.
+
+Usage:
+        go command [arguments]
+
+The commands are:
+
+    build       compile packages and dependencies
+    clean       remove object files
+    env         print Go environment information
+    fix         run go tool fix on packages
+    fmt         run gofmt on package sources
+    get         download and install packages and dependencies
+    install     compile and install packages and dependencies
+    list        list packages
+    run         compile and run Go program
+    test        test packages
+    tool        run specified go tool
+    version     print Go version
+    vet         run go tool vet on packages
+
+
 
 Difference between the naked call:
 
