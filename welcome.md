@@ -11,10 +11,10 @@
 * Software should simple
 * Software can be simple
 * What's meant by "simple"?
-	* Small
-	* Readable
-	* Consistent
-	* Predictable
+  * Small
+  * Readable
+  * Consistent
+  * Predictable
 
 
 ## Go at a glance
