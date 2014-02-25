@@ -44,9 +44,9 @@ carried out in 2 hours.
   * Conditional Loop for <bool> {
   * Range Loop
 * Functions
-	Double(int) int
-	Triple(int) int
-	anonymous
+  * Double(int) int
+  * Triple(int) int
+  * anonymous
 * Scope
 * Goroutines
 * Channels
