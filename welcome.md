@@ -1,17 +1,30 @@
 # Introduction to Go - Welcome
 
 ## Why Go?
+* Software should simple
+* Software can be simple
+* What's meant by "simple"?
+	* Small
+	* Readable
+	* Consistent
+	* Predictable
 
-* Beliefs:
-  * Software should simple
-  * Software can be simple
+
+## Go at a glance
+* Compiled, native code
+* Statically typed with clean, simplified syntax
+* Simple type system
+* Builtin concurrency primitives
+* Rich standard library
+* Open source
+
 
 ## About The Instructors
 
 ### Levi Cook
 [linked-in](http://www.linkedin.com/in/levicook)
 [twitter](https://twitter.com/levicook)
-[g+](https://plus.google.com/100303354759468796601/posts)
+[g+](https://plus.google.com/+LeviCook)
 [github](https://github.com/levicook)
 > Levi Cook is a founder and Chief Technology Officer at [SupportLocal](http://www.supportlocal.com) and is in charge of leading the company’s engineering team.  
 Mr. Cook is a seasoned open-source programmer. He has been a featured speaker at numerous programming conferences and regional software groups. 
@@ -24,10 +37,10 @@ engines and inventory and warehouse management systems.
 Prior to [Alice](http://www.alice.com), Mr. Cook served as Development Engineer and Integration Architect at WEA Trust where he developed actuarial and 
 claim and benefit management systems, as well as serving as a Senior IT Consultant at Isthmus Group and Greenbrier & Russell.
 
-###Cory LaNou
+### Cory LaNou
 [linked-in](http://www.linkedin.com/in/corylanou)
 [twitter](https://twitter.com/corylanou)
-[g+](https://plus.google.com/117716200974674608040/posts)
+[g+](https://plus.google.com/+CoryLaNou)
 [github](https://github.com/corylanou)
 >Cory LaNou is a Founder and Chief Information Officer at [SupportLocal](http://www.supportlocal.com) and is responsible for leading all application development efforts.
 Prior to SupportLocal, Mr. LaNou was the founding engineer of LocalLaunch. At LocalLaunch, he was responsible for leading and implementing the first 

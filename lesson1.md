@@ -182,4 +182,3 @@ If you see the "hello, world" message then your Go installation is working.
 ## Your first package: double
 
 Let's get to work!
-
