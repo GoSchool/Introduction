@@ -15,6 +15,7 @@
   * Readable
   * Consistent
   * Predictable
+* Velocity
 
 
 ## Go at a glance
