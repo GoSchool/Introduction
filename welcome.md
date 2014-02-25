@@ -1,5 +1,12 @@
 # Introduction to Go - Welcome
 
+## About us
+* Cory LaNou
+* Levi Cook
+* Writing as much go as possible for the last year.
+* Writing code longer than we'd care to admit to in general.
+* Stay in touch, our contact info is listed below.
+
 ## Why Go?
 * Software should simple
 * Software can be simple
@@ -19,7 +26,11 @@
 * Open source
 
 
-## About The Instructors
+## A first look
+* [Hello World!](http://play.golang.org/p/OccSs5jC9Y)
+
+
+## More about us...contact info.
 
 ### Levi Cook
 [linked-in](http://www.linkedin.com/in/levicook)

@@ -13,6 +13,8 @@ carried out in 2 hours.
 ## Welcome
 * About us
 * Why Go?
+* Go at a glance
+* More about us...and contact info.
 
 
 ## Lesson 1: Getting Started
