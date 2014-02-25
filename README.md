@@ -4,19 +4,18 @@ A fast paced, hands on workshop on Go Programming. It's meant to be
 carried out in 2 hours.
 
 * Workshop Outline
-	* Welcome                             | 15 minutes
-	* Lesson 1: Getting Started           | 15 minutes
-	* Lesson 2: Language Fundamentals     | 30 minutes
-	* Lesson 3: Command Line Applications | 60 minutes
+  * Welcome                             | 15 minutes
+  * Lesson 1: Getting Started           | 15 minutes
+  * Lesson 2: Language Fundamentals     | 30 minutes
+  * Lesson 3: Command Line Applications | 60 minutes
 
 
 ## Welcome
-
-* Why Go?
 * About us
+* Why Go?
+
 
 ## Lesson 1: Getting Started
-
 * Installing Go
   * Testing your installation: Hello World!
 * Environment
@@ -45,21 +44,19 @@ carried out in 2 hours.
   * Conditional Loop for <bool> {
   * Range Loop
 * Functions
-	Double(int) int
-	Triple(int) int
-	anonymous
-
+  * Double(int) int
+  * Triple(int) int
+  * anonymous
 * Scope
 * Goroutines
 * Channels
 
-## Lesson 3: 
-* Your first program: Hello World!
-* Your first package: double
 
-## Lession 4: Command Line Applications
-  * cat - io.Reader and io.Writer
-
+## Lesson 3: Command Line Applications
+* cat  - copy input to standard output
+* tac  - copy input to standard output in reverse
+* head - ouput the first part of files
+* tail - ouput the last part of files
 
 
 Prequisites...
