@@ -11,6 +11,10 @@ In this lesson, we will implement several common unix commands in Go.
 
 ## cat - copy input to standard output
 
+* go get lesson3/go-cat-01
+* go test lesson3/go-cat-01
+
+
 * reading from standard input
 * reading from a file
 * writing to standard output
