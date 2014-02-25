@@ -1,6 +1,3 @@
-Resources
-----------
-
 # Must Reads
 - [Getting started](http://golang.org/doc/install)
 - [Effective Go](http://golang.org/doc/effective_go.html) 
@@ -24,8 +21,7 @@ Resources
 - [Go book app spot](http://go-book.appspot.com/)
 
 
-How to get help
---------------
+# How to get help
 
 - **Step 1:** Use [play.golang.org](http://play.golang.org) to create an example of your problem (make sure it runs if it's supposed to.
 - **Step 2:** Post on  [GO+](https://plus.google.com/communities/114112804251407510571) or [go-nuts mailing list](https://groups.google.com/forum/#!forum/golang-nuts)
