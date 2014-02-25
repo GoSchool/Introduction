@@ -15,11 +15,9 @@ In this lesson, we will implement several common unix commands in Go.
 * reading from a file
 * writing to standard output
 
-
 * io package
   * io.Reader
   * io.Writer
-
 
 * The os package
   * io.Reader

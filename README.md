@@ -33,7 +33,7 @@ carried out in 2 hours.
   * Arrays
   * Slices
   * Maps
-* For
+* Looping
   * Traditional loop for i:=0;... {
   * Infinite Loop for {
   * Conditional Loop for <bool> {
