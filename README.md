@@ -19,7 +19,7 @@ carried out in 2 hours.
 
 * Install
 * Environment
-	* GOPATH
+  * GOPATH
 * Tools
   * go fmt
   * go build
