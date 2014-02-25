@@ -10,16 +10,14 @@ carried out in 2 hours.
 	* Lesson 3: Command Line Applications | 60 minutes
 
 
-## Hello World: Welcome and Introductions
+## Welcome
 
-Prequisites...
-Experienced programmers, comfortable with a command line interface.
+* Software should simple
+* Software can be simple
 
-Beliefs
-	Software should simple
-	Software can be simple
 
 ## Lesson 1: Getting Started
+
 * Install
 * Environment
 	* GOPATH
@@ -30,10 +28,10 @@ Beliefs
 * First Program
 	* Hello World
 
+
 ## Lesson 2: Language Fundamentals
-* Types and Values
-* Variables
-* Constants
+
+* Constants, Variables, Basic Types and Values
 
 * Conditionals
 	* If/Else
@@ -43,8 +41,8 @@ Beliefs
 		* switch { case expression: ... }
 
 * Collections
-	* Arrays (not what you're used to, and not the norm)
-	* Slices (what you're used to, totally normal)
+	* Arrays
+	* Slices
 	* Maps
 
 * For
@@ -58,21 +56,17 @@ Beliefs
 	Triple(int) int
 	anonymous
 
-* Scope?
+* Scope
 
 * Goroutines
 
 * Channels
 
-<!--
-batteries included: go's standard libraries;
-recreating common unix utilities
--->
 
-## Lession 3: First Application
-	* `cat` - io.Reader and io.Writer
+## Lession 3: Command Line Applications
+	* `cat`- io.Reader and io.Writer
 
-## Lession 4: Second Application
-	* `gunzip`
 
-## Goodbye World: Questions, Resources
+
+Prequisites...
+Experienced programmers, comfortable with a command line interface.
