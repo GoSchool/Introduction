@@ -1,4 +1,4 @@
-# Introduction to Go - Lesson 2: Getting Started
+# Lesson 2: Getting Started
 
 ## Language Fundamentals
 

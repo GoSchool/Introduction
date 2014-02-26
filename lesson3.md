@@ -1,7 +1,6 @@
-# Introduction to Go - Lesson 3: Command Line Applications
+# Lesson 3: Command Line Applications
 
 In this lesson, we will implement several common unix commands in Go.
-
 
 * The commands
   * cat  - copy input to standard output            | 15 minutes

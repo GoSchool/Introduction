@@ -1,4 +1,4 @@
-# Introduction to Go - Lesson 1: Getting Started
+# Lesson 1: Getting Started
 
 ## Installing Go
 

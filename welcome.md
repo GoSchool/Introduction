@@ -1,4 +1,4 @@
-# Introduction to Go - Welcome
+# Welcome
 
 ## About us
 * Cory LaNou
