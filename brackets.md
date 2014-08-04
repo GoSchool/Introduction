@@ -1,28 +1,26 @@
-# Installing an Editor
+# Installing Brackets
 
-## Installing Brackets
-
-### Instructions for Mac
+## Instructions for Mac
 
 * Open a browser and navigate to [brackets.io](http://brackets.io)
 * Click on *Download Brackets*
 * Follow the install instructions
 
-### Instructions for Linux
+## Instructions for Linux
 
 * Open a browser and navigate to [brackets.io](http://brackets.io)
 * Click on *Download Brackets*
 * Download the latest release of the msi installer (i.e. Brackets.Release.0.42.64.deb)
 * Follow the install instructions
 
-### Instructions for Windows
+## Instructions for Windows
 
 * Open a browser and navigate to [brackets.io](http://brackets.io)
 * Click on *Download Brackets*
 * Download the latest release of the msi installer (i.e. Brackets.Release.0.42.msi)
 * Follow the install instructions
 
-## Configure Brackets for Go
+# Configure Brackets for Go
 
 * Launch Brackets
 * From the "File" menu, choose "Extension Manager"
