@@ -12,7 +12,6 @@
 - [golang.org](http://golang.org/) The official site for the GO language
 - [Go Playground](http://play.golang.org/) Create and share go snippets
 - [Go Tour](http://tour.golang.org/#1) Great way to learn go for the first time
-- [Additional Effective Go Notes](https://groups.google.com/forum/#!msg/golang-nuts/xbFLvvvvyUo/Iw8MC9MRX3YJ) 
 - [10 Things you (probably) didn't know about go](http://goo.gl/L5lDv) - Amazing quick tips for making you a better go programmer.
 - [Golang Videos](http://blog.golang.org/2012/07/go-videos-from-google-io-2012.html) Amazing videos explaining key areas and concepts about go. The first video about Concurrency is amazing!
 - [loader.io](http://loader.io/) Just released, this is a cloud based load testing tool.  Very impressive tool.
