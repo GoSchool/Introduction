@@ -6,7 +6,7 @@
 * Click on *Download Brackets*
 * Follow the install instructions
 
-## Instructions for Linux
+## Instructions for Debian or Ubuntu
 
 * Open a browser and navigate to [brackets.io](http://brackets.io)
 * Click on *Download Brackets*
