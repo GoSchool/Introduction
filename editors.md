@@ -24,7 +24,7 @@
 
 ## Configure Brackets for Go
 
-* Launch Brackets from the start menu
+* Launch Brackets
 * From the "File" menu, choose "Extension Manager"
 * From the search box, type "golang"
 * "Golang Syntax for brackets" should show up.  Click "Install"
