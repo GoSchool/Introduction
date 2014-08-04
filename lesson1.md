@@ -7,6 +7,7 @@
 *Using Homebrew (Preferred Method):*
 
 ```bash
+brew update
 brew install go
 ```
 
@@ -39,6 +40,8 @@ Your workspace can be located wherever you like, but we'll use $HOME/go
 in this document. Note that this must not be the same path as your Go
 installation.
 
+*NOTE:* This is only necessary if the method of installation used above did NOT do this.
+
 ```bash
 mkdir $HOME/go
 export GOPATH=$HOME/go
@@ -48,6 +51,15 @@ For convenience, add the workspace's bin subdirectory to your PATH:
 
 ```bash
 export PATH=$PATH:$GOPATH/bin
+```
+
+## The `go` tools
+
+To get `go vet` and `go doc` run:
+
+```bash
+go get code.google.com/p/go.tools/cmd/godoc
+go get code.google.com/p/go.tools/cmd/vet
 ```
 
 ## The `go` command
